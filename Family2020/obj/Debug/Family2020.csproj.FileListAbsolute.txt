@@ -1,0 +1,7 @@
+C:\Development\ConsoleProject\Family2020\Family2020\obj\Debug\Family2020.csprojAssemblyReference.cache
+C:\Development\ConsoleProject\Family2020\Family2020\obj\Debug\Family2020.csproj.CoreCompileInputs.cache
+C:\Development\ConsoleProject\Family2020\Family2020\bin\Debug\Family2020.exe.config
+C:\Development\ConsoleProject\Family2020\Family2020\bin\Debug\Family2020.exe
+C:\Development\ConsoleProject\Family2020\Family2020\bin\Debug\Family2020.pdb
+C:\Development\ConsoleProject\Family2020\Family2020\obj\Debug\Family2020.exe
+C:\Development\ConsoleProject\Family2020\Family2020\obj\Debug\Family2020.pdb

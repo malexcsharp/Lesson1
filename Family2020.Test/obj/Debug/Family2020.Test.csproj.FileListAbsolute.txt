@@ -1,0 +1,17 @@
+C:\Development\ConsoleProject\Family2020\Family2020.Test\obj\Debug\Family2020.Test.csprojAssemblyReference.cache
+C:\Development\ConsoleProject\Family2020\Family2020.Test\obj\Debug\Family2020.Test.csproj.CoreCompileInputs.cache
+C:\Development\ConsoleProject\Family2020\Family2020.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Development\ConsoleProject\Family2020\Family2020.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Development\ConsoleProject\Family2020\Family2020.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Development\ConsoleProject\Family2020\Family2020.Test\bin\Debug\Family2020.Test.dll
+C:\Development\ConsoleProject\Family2020\Family2020.Test\bin\Debug\Family2020.Test.pdb
+C:\Development\ConsoleProject\Family2020\Family2020.Test\bin\Debug\Family2020.exe
+C:\Development\ConsoleProject\Family2020\Family2020.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Development\ConsoleProject\Family2020\Family2020.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Development\ConsoleProject\Family2020\Family2020.Test\bin\Debug\Family2020.pdb
+C:\Development\ConsoleProject\Family2020\Family2020.Test\bin\Debug\Family2020.exe.config
+C:\Development\ConsoleProject\Family2020\Family2020.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Development\ConsoleProject\Family2020\Family2020.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Development\ConsoleProject\Family2020\Family2020.Test\obj\Debug\Family2020.Test.csproj.CopyComplete
+C:\Development\ConsoleProject\Family2020\Family2020.Test\obj\Debug\Family2020.Test.dll
+C:\Development\ConsoleProject\Family2020\Family2020.Test\obj\Debug\Family2020.Test.pdb
